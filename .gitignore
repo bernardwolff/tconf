@@ -4,3 +4,6 @@
 node_modules/
 platforms/
 plugins/
+confluence_users.json
+www/tntp_users.json
+confluence.ini
