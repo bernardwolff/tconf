@@ -10,4 +10,4 @@ How to run
   * put a valid confluence domain, username, password in confluence.ini
   * ./get_confluence_contacts.py
   * mv www/confluence_users.json www/all_users.json (note: this will overwrite the existing dummy user file!)
-* ionic run <platform>
+* `ionic run android` or `ionic run ios`
